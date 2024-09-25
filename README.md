@@ -13,7 +13,7 @@ The circuit used in this project is depicted in the image below:
 
 ## Existing Files  
 1. ![Arduino code](https://github.com/ekoumpar/Arduino-mini-projects/blob/7163d3d5894624cb3460ebe90b06d8cbc802a8ce/TempMonitor/temperature_monitor1(3).ino) 
-2. ![Circuit Diagram]
+2. ![Circuit Diagram](https://github.com/ekoumpar/Arduino-mini-projects/blob/8bc2e4d7769739a16170e440c9d4d7c2f512576e/TempMonitor/Temperature%20Monitor2.png)
 3. ![List of components]
 4. ![Circuit recover]
 
