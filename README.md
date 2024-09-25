@@ -5,7 +5,7 @@ The alarm consists of three blinking LEDs and a button that functions as a switc
 <li>LEDs
 <li>Temperature Sensor
 <li>Disarm Button (Switch)
-<li>Resistors
+<li>Resistors<br/>
 The circuit used in this project is depicted in the image below:  
   
   ![image](https://github.com/user-attachments/assets/dded329a-2dfe-4f9b-9983-f450c6f5709f)
