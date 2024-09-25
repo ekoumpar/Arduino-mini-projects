@@ -12,9 +12,9 @@ The circuit used in this project is depicted in the image below:
 
 
 ## Existing Files  
-1.  for arduino code.
-3. Suffix .png is photo of the circuit.
-4. Suffix .csv is list of the components used.
-5. Suffix .brd consists the circuit made in Tinkercad.
+1. ![Arduino code](https://github.com/ekoumpar/Arduino-mini-projects/blob/7163d3d5894624cb3460ebe90b06d8cbc802a8ce/TempMonitor/temperature_monitor1(3).ino) 
+2. ![Circuit Diagram]
+3. ![List of components]
+4. ![Circuit recover]
 
 
